@@ -1,0 +1,13 @@
+{
+  "name": "yt-telegram-music-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "yt-dlp-exec": "^1.2.4",
+    "fs-extra": "^11.1.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
